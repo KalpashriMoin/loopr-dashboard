@@ -34,7 +34,6 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
-    "types": ["jest", "node"],
     "isolatedModules": true,
     "moduleResolution": "Node16",
     "declaration": false,
