@@ -1,3 +1,6 @@
+https://loopr-dashboard.vercel.app/dashboard
+
+
 # Loopr — Financial Analytics Dashboard
 
 A full-stack financial analytics application built for the Loopr Full-Stack Assignment. Analysts can log in, explore revenue/expense trends and KPIs on an interactive dashboard, search/filter/sort transactions, and export a configurable CSV report that downloads directly through the browser.
